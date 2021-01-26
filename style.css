@@ -1,8 +1,8 @@
-body{
+body {
     padding: 100px;
 }
 
-.submit-area{
+.submit-area {
     margin-top: 50px;
     padding: 50px;
     border-radius: 15px;
@@ -13,11 +13,11 @@ body{
     box-shadow: 5px 5px 10px gray;
 }
 
-#transaction-area{
+#transaction-area {
     display: none;
 }
 
-.status{
+.status {
     margin: 20px 20px;
     color: #fff;
     padding: 30px;
@@ -28,14 +28,14 @@ body{
     -o-border-radius: 10px;
 }
 
-.deposit{
+.deposit {
     background: slateblue;
 }
 
-.withdraw{
+.withdraw {
     background-color: lightsalmon;
 }
 
-.balance{
+.balance {
     background-color: orange;
 }
